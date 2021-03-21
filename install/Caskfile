@@ -1,0 +1,129 @@
+# brew install --cask [package name]
+tap "homebrew/cask"
+tap "homebrew/cask-fonts"
+tap "homebrew/cask-versions"
+
+cask "font-hack"
+cask "font-inconsolata"
+cask "font-national-park"
+cask "font-raleway"
+
+cask "glimmerblocker"
+cask "google-backup-and-sync"
+cask "google-chrome"
+cask "google-chrome-canary"
+cask "hammerspoon"
+cask "kaleidoscope"
+cask "maccy"
+cask "macdown"
+cask "postman"
+cask "slack"
+cask "sourcetree"
+cask "spotify"
+cask "virtualbox"
+cask "visual-studio-code"
+cask "vlc"
+
+1password
+adobe-creative-cloud
+appzapper
+audio-hijack
+backblaze
+banktivity
+bartender
+brave-browser
+chronosync
+clipy
+colloquy
+dash
+default-folder-x
+deltawalker
+docker
+downie
+dropbox
+encryptme
+evernote
+expandrive
+firefox
+firefox-developer-edition
+firefox-nightly
+font-fira-code
+garagebuy
+garagesale
+google-backup-and-sync
+google-chrome
+google-chrome-canary
+gpg-suite
+gqrx
+hammerspoon
+hand-mirror
+harvest
+hazel
+imagealpha
+imageoptim
+imazing
+inboard
+inssider
+integrity
+istat-menus
+iterm2
+kaleidoscope
+keybase
+kindle
+knox
+lastfm
+launchbar
+livereload
+loopback
+macdown
+mailmate
+marked
+mdimagesizemdimporter
+netspot
+nextcloud
+nvalt
+obsidian
+omnifocus
+omnioutliner
+omniplan
+opera
+opera-developer
+owncloud
+permute
+popclip
+postman
+printopia
+qlcolorcode
+qlimagesize
+qlmarkdown
+qlstephen
+qlvideo
+quicklook-json
+renamer
+resilio-sync
+rubitrack-pro
+safari-technology-preview
+satellite-eyes
+scrivener
+sequel-pro
+signal
+sketch
+sketchup
+skype
+slack
+sourcetree
+sublime-text
+superduper
+suspicious-package
+taskpaper
+textexpander
+tor-browser
+tower
+transmission
+transmit
+visual-studio-code
+vlc
+webstorm
+whatsize
+xquartz
+zoomus
