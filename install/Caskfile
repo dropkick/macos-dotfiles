@@ -8,122 +8,90 @@ cask "font-inconsolata"
 cask "font-national-park"
 cask "font-raleway"
 
-cask "glimmerblocker"
+cask "1password"
+cask "adobe-creative-cloud"
+cask "appzapper"
+cask "audio-hijack"
+cask "backblaze"
+cask "banktivity"
+cask "bartender"
+cask "brave-browser"
+cask "chronosync"
+cask "clipy"
+cask "colloquy"
+cask "dash"
+cask "default-folder-x"
+cask "deltawalker"
+cask "docker"
+cask "downie"
+cask "dropbox"
+cask "evernote"
+cask "expandrive"
+cask "firefox"
+cask "firefox-developer-edition"
+cask "firefox-nightly"
+cask "garagebuy" // weird, but used these occasionally
+cask "garagesale" // weird, but used these occasionally
 cask "google-backup-and-sync"
 cask "google-chrome"
 cask "google-chrome-canary"
+cask "gpg-suite"
 cask "hammerspoon"
+cask "hand-mirror"
+cask "harvest"
+cask "hazel"
+cask "imagealpha"
+cask "imageoptim"
+cask "imazing"
+cask "inssider"
+cask "integrity"
+cask "istat-menus"
+cask "iterm2"
 cask "kaleidoscope"
-cask "maccy"
+cask "keybase"
+cask "kindle"
+cask "knox"
+cask "lastfm"
+cask "launchbar"
+cask "loopback"
 cask "macdown"
+cask "mailmate"
+cask "marked"
+cask "mdimagesizemdimporter"
+cask "netspot"
+cask "nextcloud"
+cask "nvalt"
+cask "obsidian"
+cask "omnifocus"
+cask "omnioutliner"
+cask "omniplan"
+cask "opera"
+cask "opera-developer"
+cask "permute"
 cask "postman"
+cask "printopia"
+cask "renamer"
+cask "resilio-sync"
+cask "rubitrack-pro"
+cask "safari-technology-preview"
+cask "satellite-eyes"
+cask "scrivener"
+cask "sequel-pro"
+cask "signal"
+cask "sketch"
+cask "sketchup"
+cask "skype"
 cask "slack"
-cask "sourcetree"
-cask "spotify"
-cask "virtualbox"
+cask "sublime-text"
+cask "superduper"
+cask "taskpaper"
+cask "textexpander"
+cask "tower"
+cask "transmission"
+cask "transmit"
 cask "visual-studio-code"
 cask "vlc"
-
-1password
-adobe-creative-cloud
-appzapper
-audio-hijack
-backblaze
-banktivity
-bartender
-brave-browser
-chronosync
-clipy
-colloquy
-dash
-default-folder-x
-deltawalker
-docker
-downie
-dropbox
-encryptme
-evernote
-expandrive
-firefox
-firefox-developer-edition
-firefox-nightly
-font-fira-code
-garagebuy
-garagesale
-google-backup-and-sync
-google-chrome
-google-chrome-canary
-gpg-suite
-gqrx
-hammerspoon
-hand-mirror
-harvest
-hazel
-imagealpha
-imageoptim
-imazing
-inboard
-inssider
-integrity
-istat-menus
-iterm2
-kaleidoscope
-keybase
-kindle
-knox
-lastfm
-launchbar
-livereload
-loopback
-macdown
-mailmate
-marked
-mdimagesizemdimporter
-netspot
-nextcloud
-nvalt
-obsidian
-omnifocus
-omnioutliner
-omniplan
-opera
-opera-developer
-owncloud
-permute
-popclip
-postman
-printopia
-qlcolorcode
-qlimagesize
-qlmarkdown
-qlstephen
-qlvideo
-quicklook-json
-renamer
-resilio-sync
-rubitrack-pro
-safari-technology-preview
-satellite-eyes
-scrivener
-sequel-pro
-signal
-sketch
-sketchup
-skype
-slack
-sourcetree
-sublime-text
-superduper
-suspicious-package
-taskpaper
-textexpander
-tor-browser
-tower
-transmission
-transmit
-visual-studio-code
-vlc
-webstorm
-whatsize
-xquartz
-zoomus
+cask "webstorm"
+cask "whatsize"
+cask "xquartz"
+cask "zoomus"
