@@ -29,6 +29,7 @@ updated 2021-03-20
 - [bash-completion@2](https://github.com/scop/bash-completion) - CLI completions and helper funtions for the Bash shell
 - [bat](https://github.com/sharkdp/bat) - A `cat` clone with syntax highlighting and Git integration.  
 - [coreutils](https://www.gnu.org/software/coreutils) - the basic file, shell and text manipulation utilities of the GNU operating system. 
+- [composer](https://getcomposer.org/) - dependency manager for PHP
 - [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - diff-so-fancy strives to make your diffs human readable instead of machine readable. This helps improve code quality and helps you spot defects faster.  
 - [dockutil](https://github.com/kcrawford/dockutil) - CLI tool for managing dock items.  
 - [fasd](https://github.com/clvv/fasd) - CLI tool for quick access to files and directories.  
