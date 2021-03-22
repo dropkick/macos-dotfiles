@@ -114,7 +114,6 @@ save dialogs, favorite folders, shortcuts, etc.
 - [gpg-suite](https://gpgtools.org/) - encrypt, decrypt, sign and verify files or messages. 
 - [hammerspoon](https://www.hammerspoon.org/) - desktop automation tool for macOS. Bridges various system level APIs into a Lua scripting engine.
 - [hand-mirror](https://handmirror.app/) - one-click camera check from the menu bar
-- [harvest](https://www.getharvest.com/) - time tracking utility
 - [hazel](https://www.noodlesoft.com/) - automated organization for Mac.
 - [imagealpha](https://pngmini.com/) -  reduces file sizes of 24-bit PNG files (including alpha transparency) 
 - [imageoptim](https://imageoptim.com/mac) - image optimization and compression utility. 
@@ -144,46 +143,36 @@ save dialogs, favorite folders, shortcuts, etc.
 - [opera](https://www.opera.com/) - web browser
 - [opera-developer](https://www.opera.com/computer/beta) - web browser, developer verison
 - [permute](https://software.charliemonroe.net/permute/) - media converter 
-- [popclip]() - 
-- [postman]() - 
-- [printopia]() - 
-- [qlcolorcode]() - 
-- [qlimagesize]() - 
-- [qlmarkdown]() - 
-- [qlstephen]() - 
-- [qlvideo]() - 
-- [quicklook-json]() - 
-- [renamer]() - 
-- [resilio-sync]() - 
-- [rubitrack-pro]() - 
-- [safari-technology-preview]() - 
-- [satellite-eyes]() - 
-- [scrivener]() - 
-- [sequel-pro]() - 
-- [signal]() - 
-- [sketch]() - 
-- [sketchup]() - 
-- [skype]() - 
-- [slack]() - 
+- [postman](https://www.postman.com/downloads/) - API request sending from your browser version of Postman
+- [printopia](https://www.decisivetactics.com/products/printopia/) - share any printer with your iOS devices
+- [renamer](https://renamer.com/) - batch file renamer. Chainable, savable renaming tasks.
+- [resilio-sync](https://www.resilio.com/) - core BitTorrent-based file sync and share (poss. moving macdown settings here until nextcloud is updated for Big Sur/M1)
+- [rubitrack-pro](https://rubitrack.com/) - exercise/activity tracking organization and analysis
+- [safari-technology-preview](https://developer.apple.com/safari/technology-preview/) - web browser. developer/preview version. Robust inspector and responsive design mode.
+- [satellite-eyes](https://satelliteeyes.tomtaylor.co.uk/) - automatically changes desktop wallpaper to the satellite view of where you are 
+- [scrivener](https://www.literatureandlatte.com/scrivener/overview) - long-form writing, reaserch, and organization app
+- [sequel-pro](https://sequelpro.com/) - db management application for working with MySQL (Big Sur/M1 support missing)
+- [signal](https://www.signal.org/) - secure messaging app
+- [sketch](https://www.sketch.com/) - digital design app
+- [sketchup](https://www.sketchup.com/) - 3D design software
+- [skype](https://www.skype.com/en/) - video calls and chat
+- [slack](https://slack.com/) - group messaging app
 - [soundsource](https://rogueamoeba.com/soundsource/) - improved sound control for mac (per app settings, input/outputs, etc.)
-- [sourcetree]() - 
-- [strongsync]() - 
-- [sublime-text]() - 
-- [superduper]() - 
-- [suspicious-package]() - 
-- [taskpaper]() - 
-- [textexpander]() - 
+- [strongsync](https://www.expandrive.com/strongsync/) - macOS 11 File Provider. Enables APFS realtime on-demand sync without kernel extensions. (Integrated server-side search!)
+- [sublime-text](https://www.sublimetext.com/) - text editor
+- [superduper](https://shirt-pocket.com/SuperDuper/SuperDuperDescription.html) - utility for easily creating creating bootable backups (Big Sur/M1 support TBD)
+- [taskpaper](https://www.taskpaper.com/) - plain text to-do lists with a powerful built-in outliner
+- [textexpander](https://textexpander.com/) - expand appbreviations to text snippets (scriptable, on-the-fly wildcard replacement, etc.) Pretty much the best thing ever.
 - [textual](https://www.codeux.com/textual/) - IRC client for macOS.
-- [tor-browser]() - 
-- [tower]() - 
-- [transmission]() - 
-- [transmit]() - 
-- [visual-studio-code]() - 
-- [vlc]() - 
-- [webstorm]() - 
-- [whatsize]() - 
-- [xquartz]() - 
-- [zoomus]() - 
+- [tor-browser](https://www.torproject.org/download/) - modified version of Firefox that connects to the internet via the Tor network
+- [tower](https://www.git-tower.com/) - user-friendly, robust git client
+- [transmission](https://transmissionbt.com/) - BitTorrent client
+- [transmit](https://www.panic.com/transmit/) - gold standard file transfer app (SFTP, S3, etc. plus loads of cloud services.) Worth it for organization capabilities alone.
+- [visual-studio-code](https://code.visualstudio.com/) - code editor
+- [vlc](https://www.videolan.org/vlc/) - multimedia player and framework. Plays most multimedia files, DVDs, CDs, VCDs, and streaming protocols
+- [webstorm](https://www.jetbrains.com/webstorm/) - JavaScript IDE by Jetbrains
+- [whatsize](https://www.whatsizemac.com/) - measures the size of storage devices and allows you to sort, filter, etc.
+- [zoomus](https://zoom.us/) - video conferencing
 
 
 #### Fonts from cask-fonts
@@ -198,7 +187,29 @@ save dialogs, favorite folders, shortcuts, etc.
 
 ### Homebrew [mas-cli](https://github.com/mas-cli/mas) installs (via [install/masfile](install/masfile)) 
 
-
+- [harvest](https://www.getharvest.com/) - time tracking utility 
+- Amphetamine
+- Chronicle Pro
+- ColorSnapper2
+- Day One
+- Deliveries
+- Drafts
+- EchoHam
+- Exporter for Contacts
+- Fantastical
+- Harvest
+- Keynote
+- Numbers
+- Paprika Recipe Manager 3
+- Pages
+- Paletter
+- PDFScanner
+- Pommie
+- Reeder
+- Session
+- Silicio
+- Tweetbot
+- UpHabit
   
 # # #
 
