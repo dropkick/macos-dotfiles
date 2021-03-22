@@ -1,7 +1,7 @@
 # macOS shell + dotfiles notes
 updated 2021-03-20
 
-## Command line/shell 
+## Package Overview
 
 ### [NPM](https://www.npmjs.com/) packages (via [install/npmfile](install/npmfile))
 
@@ -188,6 +188,7 @@ save dialogs, favorite folders, shortcuts, etc.
 
 
 ### Homebrew [mas-cli](https://github.com/mas-cli/mas) installs (via [install/masfile](install/masfile)) 
+(mas-cli comes along with homebrew-bundle.)
 
 - [Amphetamine](https://apps.apple.com/us/app/amphetamine/id937984704) - screen keep-awake utility
 - [Chronicle Pro](https://apps.apple.com/us/app/id1280542517) - Bill tracker with sync across devices
@@ -209,10 +210,60 @@ save dialogs, favorite folders, shortcuts, etc.
 - [Reeder](https://apps.apple.com/us/app/reeder/id1449412482) - RSS reader and read later client. The. Best.
 - [Session](https://apps.apple.com/us/app/session/id1521432881) - intersting take on a pomodoro-type timer. Can help maintain focus.
 - [Silicio](https://apps.apple.com/us/app/silicio/id933627574) - mini-player for Apple Music and others, displays cover art, and scrobbles to last.fm. It's the most reliable last.fm scrobbler for Mac that I know of.
+- [SonicWall Mobile Connect](https://apps.apple.com/us/app/sonicwall-mobile-connect/id822514576) - VPN client for a particular network I need to connect to occasionally
 - [Tweetbot](https://apps.apple.com/us/app/tweetbot/id1384080005) - Twitter client. 
 - [UpHabit](https://apps.apple.com/us/app/uphabit/id1495261277) - a personal CRM
   
-# # #
+---
+
+### Install
+From a fresh install of macOS:
+
+#### 1. Install macOS updates and Command Line Tools
+1. Install all macOS updates 
+
+```bash
+sudo softwareupdate --install --agree-to-license --verbose -aR
+```
+2. Install xcode to get `make` and `git`  with 
+
+```bash
+xcode-select --install
+```
+#### 2. Two Options
+**Option 1**: Install this repo with `curl` using:
+
+```bash
+bash -c "`curl -fsSL https://raw.githubusercontent.com/dropkick/macos-dotfiles/main/remote-install.sh`"
+```
+This will clone or download this repo to ~/.macos-dotfiles depending on the availability of git, curl or wget.
+
+**Option 2**: Alternatively, clone manually into the desired location:
+
+```bash
+git clone https://github.com/dropkick/macos-dotfiles.git ~/.dotfiles
+```
+Use the [Makefile](./Makefile) to install everything [listed above](#package-overview), and symlink [runcom](./runcom) and [config](./config) (using [stow](https://www.gnu.org/software/stow/)):
+
+```bash
+cd ~/.dotfiles
+make
+```
+
+#### 3. Post install:
+
+- `dotfiles dock` (set [Dock items](./macos/dock.sh))
+- `dotfiles macos` (set [macOS defaults](./macos/defaults.sh))
+- **Mackup**
+  -  Log in to whatever cloud sync is being used to store mackup settings and wait until synced. (Nextcloud in my case.)
+  - `ln -s ~/.config/mackup/.mackup.cfg ~` (until [#632](https://github.com/lra/mackup/pull/632) is fixed)
+  - `mackup restore`
+- **VSCode**
+	- settings are kept in sync with a Github Gist called cloudSettings. [Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync) (shan.code-settings-sync) can be invoked from the command paltette by typing sync, etc. or with:  
+	1. Upload Keys: `Shift + Option + U`
+	2. Download Keys : `Shift + Option + D`
+  
+---
 
 
 ### Random Notes
