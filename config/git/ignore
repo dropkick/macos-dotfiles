@@ -1,0 +1,14 @@
+*~
+._*
+.DS_Store
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+node_modules
+bower_components
+npm-debug.log
+*.sublime-project
+*.sublime-workspace
+*.code-workspace
+.vscode
