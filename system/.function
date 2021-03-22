@@ -1,0 +1,74 @@
+# Switch long/short prompt
+
+ps0() {
+  unset PROMPT_COMMAND
+  PS1='$ '
+}
+
+ps1() {
+  source "$DOTFILES_DIR"/system/.prompt
+}
+
+# Get named var (usage: get "VAR_NAME")
+
+get() {
+  echo "${!1}"
+}
+
+# Add to path
+
+prepend-path() {
+  [ -d $1 ] && PATH="$1:$PATH"
+}
+
+# Show 256 TERM colors
+
+colors() {
+  local X=$(tput op)
+  local Y=$(printf %$((COLUMNS-6))s)
+  for i in {0..256}; do
+  o=00$i;
+  echo -e ${o:${#o}-3:3} $(tput setaf $i;tput setab $i)${Y// /=}$X;
+  done
+}
+
+# Calculator
+
+calc() {
+  echo "$*" | bc -l;
+}
+
+# Weather
+
+meteo() {
+  local LOCALE=$(echo ${LANG:-en} | cut -c1-2)
+  if [ $# -eq 0 ]; then
+    local LOCATION=$(curl -s ipinfo.io/loc)
+  else
+    local LOCATION=$1
+  fi
+  curl -s "$LOCALE.wttr.in/$LOCATION"
+}
+wx() {
+  telnet rainmaker.wunderground.com
+}
+
+# Markdown
+
+md() {
+  pandoc $1 | lynx -stdin -dump
+}
+
+## Added 2018-02-02 (via https://gist.github.com/cirrusUK/f1eec87cf5e63985d4e3)
+# Is server up ? | Usage: down4me <www.foo.com>
+
+down4me() { 
+  curl -s "http://downforeveryoneorjustme.com/$1" | sed '/just you/!d;s/<[^>]*>//g';
+}
+
+## Added 2019-01-21 (via https://news.ycombinator.com/item?id=18903234)
+# Query cht.sh for various Unix commands. | Usage: cheat <command> 
+
+cheat() {
+  curl cht.sh/$1
+}

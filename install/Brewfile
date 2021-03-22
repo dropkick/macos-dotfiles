@@ -4,9 +4,10 @@ tap "homebrew/cask-fonts"
 tap "homebrew/cask-versions"
 tap "homebrew/core"
 
-brew "bash"
-brew "bash-completion@2"
+# brew "bash" //installed by Makefile
+# brew "bash-completion@2" //installed by Makefile
 brew "bat"
+brew "bats"
 brew "coreutils"
 brew "composer"
 brew "cowsay"
@@ -15,8 +16,8 @@ brew "dockutil"
 brew "fasd"
 brew "ffmpeg"
 brew "gh"
-brew "git"
-brew "git-extras"
+# brew "git" //installed by Makefile
+# brew "git-extras" //installed by Makefile
 brew "gnu-sed"
 brew "go"
 brew "grep"
