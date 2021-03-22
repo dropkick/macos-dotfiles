@@ -187,29 +187,28 @@ save dialogs, favorite folders, shortcuts, etc.
 
 ### Homebrew [mas-cli](https://github.com/mas-cli/mas) installs (via [install/masfile](install/masfile)) 
 
-- [harvest](https://www.getharvest.com/) - time tracking utility 
-- Amphetamine
-- Chronicle Pro
-- ColorSnapper2
-- Day One
-- Deliveries
-- Drafts
-- EchoHam
-- Exporter for Contacts
-- Fantastical
-- Harvest
-- Keynote
-- Numbers
-- Paprika Recipe Manager 3
-- Pages
-- Paletter
-- PDFScanner
-- Pommie
-- Reeder
-- Session
-- Silicio
-- Tweetbot
-- UpHabit
+- [Amphetamine](https://apps.apple.com/us/app/amphetamine/id937984704) - screen keep-awake utility
+- [Chronicle Pro](https://apps.apple.com/us/app/id1280542517) - Bill tracker with sync across devices
+- [ColorSnapper2](https://apps.apple.com/app/colorsnapper/id969418666) -
+- [Day One](https://apps.apple.com/us/app/day-one/id1055511498) - journaling app
+- [Deliveries](https://apps.apple.com/us/app/deliveries/id924726344) -
+- [Drafts](https://apps.apple.com/us/app/drafts/id1435957248) -
+- [EchoHam](https://apps.apple.com/us/app/echoham/id873302145) -
+- [Exporter for Contacts](https://apps.apple.com/us/app/exporter-for-contacts/id402323447) -
+- [Fantastical](https://apps.apple.com/us/app/fantastical/id975937182) -
+- [Harvest](https://www.getharvest.com/) - time tracking utility 
+- [Keynote](https://apps.apple.com/us/app/keynote/id409183694) -
+- [Numbers](https://apps.apple.com/us/app/numbersid409203825) -
+- [Paprika Recipe Manager 3](https://apps.apple.com/us/app/paprika/id1303222628) -
+- [Pages](https://apps.apple.com/us/app/pages/id409201541) -
+- [Paletter](https://apps.apple.com/us/app/paletter/id1494948845) -
+- [PDFScanner](https://apps.apple.com/us/app/pdfscanner/id410968114) -
+- [Pommie](https://apps.apple.com/us/app/pommie/id963504129) -
+- [Reeder](https://apps.apple.com/us/app/reeder/id1449412482) -
+- [Session](https://apps.apple.com/us/app/session/id1521432881) -
+- [Silicio](https://apps.apple.com/us/app/silicio/id933627574) -
+- [Tweetbot](https://apps.apple.com/us/app/tweetbot/id1384080005) -
+- [UpHabit](https://apps.apple.com/us/app/uphabit/id1495261277) -
   
 # # #
 
