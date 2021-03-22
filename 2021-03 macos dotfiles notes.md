@@ -28,6 +28,7 @@ updated 2021-03-20
 - [bash](https://www.gnu.org/software/bash/) - Bash 5 instead of 3
 - [bash-completion@2](https://github.com/scop/bash-completion) - CLI completions and helper funtions for the Bash shell
 - [bat](https://github.com/sharkdp/bat) - A `cat` clone with syntax highlighting and Git integration.  
+- [bats](https://github.com/sstephenson/bats) - testing framework written for and in the Bash
 - [coreutils](https://www.gnu.org/software/coreutils) - the basic file, shell and text manipulation utilities of the GNU operating system. 
 - [cowsay](https://github.com/tnalpgge/rank-amateur-cowsay) - a Perl program that generates ASCII pictures of a cow with a message
 - [composer](https://getcomposer.org/) - dependency manager for PHP
@@ -258,11 +259,40 @@ make
   -  Log in to whatever cloud sync is being used to store mackup settings and wait until synced. (Nextcloud in my case.)
   - `ln -s ~/.config/mackup/.mackup.cfg ~` (until [#632](https://github.com/lra/mackup/pull/632) is fixed)
   - `mackup restore`
+- **Firefox**
+  - Log in to Firefox Sync to pull in preferences, add-ons, and bookmarks as desired.
 - **VSCode**
 	- settings are kept in sync with a Github Gist called cloudSettings. [Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync) (shan.code-settings-sync) can be invoked from the command paltette by typing sync, etc. or with:  
 	1. Upload Keys: `Shift + Option + U`
 	2. Download Keys : `Shift + Option + D`
   
+---
+
+
+## The `dotfiles` command
+
+```bash
+$ dotfiles help
+Usage: dotfiles <command>
+
+Commands:
+    clean            Clean up caches (OS, brew, npm, gem, mas)
+    dock             Apply macOS Dock settings
+    edit             Open dotfiles in IDE (code) and Git GUI (gittower)
+    help             This help message
+    macos            Apply macOS system defaults
+    test             Run tests
+    update           Update packages and pkg managers (OS, brew, npm, gem)
+```
+
+## Customize
+
+You can put your custom settings, such as Git credentials in the `system/.custom` file which will be sourced from
+`.bash_profile` automatically. This file is in `.gitignore`.
+
+Alternatively, you can have an additional, personal dotfiles repo at `~/.extra`. The runcom `.bash_profile` sources all
+`~/.extra/runcom/*.sh` files.
+
 ---
 
 
