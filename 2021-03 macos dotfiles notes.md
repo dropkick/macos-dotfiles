@@ -278,3 +278,4 @@ make
 
 - As a general rule, to add directories to your ```PATH``` or define additional environment variables, place those changes in ```.bash_profile``` (or the equivalent, according to your distribution; for example, Ubuntu uses ```.profile```).
 - For everything else, place the changes in ```.bashrc```.
+- Set up environment (PATH, LANG, EDITOR, ...) in ~/.bash_profile. Set up bash shell (PS1, functions, shopts, ...) in ~/.bashrc. Then source .bashrc from .bash_profile.
