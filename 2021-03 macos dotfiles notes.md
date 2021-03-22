@@ -29,6 +29,7 @@ updated 2021-03-20
 - [bash-completion@2](https://github.com/scop/bash-completion) - CLI completions and helper funtions for the Bash shell
 - [bat](https://github.com/sharkdp/bat) - A `cat` clone with syntax highlighting and Git integration.  
 - [coreutils](https://www.gnu.org/software/coreutils) - the basic file, shell and text manipulation utilities of the GNU operating system. 
+- [cowsay](https://github.com/tnalpgge/rank-amateur-cowsay) - a Perl program that generates ASCII pictures of a cow with a message
 - [composer](https://getcomposer.org/) - dependency manager for PHP
 - [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - diff-so-fancy strives to make your diffs human readable instead of machine readable. This helps improve code quality and helps you spot defects faster.  
 - [dockutil](https://github.com/kcrawford/dockutil) - CLI tool for managing dock items.  
@@ -36,6 +37,7 @@ updated 2021-03-20
 - [ffmpeg](https://ffmpeg.org/) - Play, record, convert, and stream audio and video  
 - [gh](https://github.com/cli/cli) - GitHub on the command line
 - [git](https://git-scm.com/) - latest version of git instead of Apple's older one
+- [git-extras](https://github.com/tj/git-extras) - li'l extras for git 
 - [gnu-sed](https://www.gnu.org/software/sed/) - GNU implementation of the famous stream editor (a non-interactive command-line text editor) 
 - [go](https://golang.org/) - programming language 
 - [grep](https://www.gnu.org/software/grep/) - GNU grep, egrep and fgrep 
@@ -191,24 +193,24 @@ save dialogs, favorite folders, shortcuts, etc.
 - [Chronicle Pro](https://apps.apple.com/us/app/id1280542517) - Bill tracker with sync across devices
 - [ColorSnapper2](https://apps.apple.com/app/colorsnapper/id969418666) -
 - [Day One](https://apps.apple.com/us/app/day-one/id1055511498) - journaling app
-- [Deliveries](https://apps.apple.com/us/app/deliveries/id924726344) -
-- [Drafts](https://apps.apple.com/us/app/drafts/id1435957248) -
-- [EchoHam](https://apps.apple.com/us/app/echoham/id873302145) -
-- [Exporter for Contacts](https://apps.apple.com/us/app/exporter-for-contacts/id402323447) -
-- [Fantastical](https://apps.apple.com/us/app/fantastical/id975937182) -
+- [Deliveries](https://apps.apple.com/us/app/deliveries-a-package-tracker/id290986013) - a package tracker
+- [Drafts](https://apps.apple.com/us/app/drafts/id1435957248) -  quickly capture text and send it almost anywhere
+- [EchoHam](https://apps.apple.com/us/app/echoham/id873302145) - use the Echolink network from Mac
+- [Exporter for Contacts](https://apps.apple.com/us/app/exporter-for-contacts/id402323447) - app for exporting contact information from Apple Contacts to CSV, XLS, etc.
+- [Fantastical](https://apps.apple.com/us/app/fantastical/id975937182) - powerful calendar app
 - [Harvest](https://www.getharvest.com/) - time tracking utility 
-- [Keynote](https://apps.apple.com/us/app/keynote/id409183694) -
-- [Numbers](https://apps.apple.com/us/app/numbersid409203825) -
-- [Paprika Recipe Manager 3](https://apps.apple.com/us/app/paprika/id1303222628) -
-- [Pages](https://apps.apple.com/us/app/pages/id409201541) -
-- [Paletter](https://apps.apple.com/us/app/paletter/id1494948845) -
-- [PDFScanner](https://apps.apple.com/us/app/pdfscanner/id410968114) -
-- [Pommie](https://apps.apple.com/us/app/pommie/id963504129) -
-- [Reeder](https://apps.apple.com/us/app/reeder/id1449412482) -
-- [Session](https://apps.apple.com/us/app/session/id1521432881) -
-- [Silicio](https://apps.apple.com/us/app/silicio/id933627574) -
-- [Tweetbot](https://apps.apple.com/us/app/tweetbot/id1384080005) -
-- [UpHabit](https://apps.apple.com/us/app/uphabit/id1495261277) -
+- [Keynote](https://apps.apple.com/us/app/keynote/id409183694) - presentations
+- [Numbers](https://apps.apple.com/us/app/numbersid409203825) - spreadsheets
+- [Paprika Recipe Manager 3](https://apps.apple.com/us/app/paprika/id1303222628) - recipe manager
+- [Pages](https://apps.apple.com/us/app/pages/id409201541) - word processor
+- [Paletter](https://apps.apple.com/us/app/paletter/id1494948845) - color palette generator and explorer
+- [PDFScanner](https://apps.apple.com/us/app/pdfscanner/id410968114) - scanner app focued on documents with OCR saved to PDF. 
+- [Pommie](https://apps.apple.com/us/app/pommie/id963504129) - pomodoro time for menubar
+- [Reeder](https://apps.apple.com/us/app/reeder/id1449412482) - RSS reader and read later client. The. Best.
+- [Session](https://apps.apple.com/us/app/session/id1521432881) - intersting take on a pomodoro-type timer. Can help maintain focus.
+- [Silicio](https://apps.apple.com/us/app/silicio/id933627574) - mini-player for Apple Music and others, displays cover art, and scrobbles to last.fm. It's the most reliable last.fm scrobbler for Mac that I know of.
+- [Tweetbot](https://apps.apple.com/us/app/tweetbot/id1384080005) - Twitter client. 
+- [UpHabit](https://apps.apple.com/us/app/uphabit/id1495261277) - a personal CRM
   
 # # #
 

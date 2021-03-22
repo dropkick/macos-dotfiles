@@ -1,23 +1,26 @@
-937984704 Amphetamine (5.0.3)
-1280542517 Chronicle Pro (9.7.2)
-969418666 ColorSnapper2 (1.5.1)
-1055511498 Day One (5.2)
-924726344 Deliveries (3.2.3)
-1435957248 Drafts (21.2.3)
-873302145 EchoHam (2.13)
-402323447 Exporter for Contacts (1.12.5)
-975937182 Fantastical (3.1.6)
-506189836 Harvest (2.2.4)
-409183694 Keynote (10.1)
-409203825 Numbers (10.1)
-1303222628 Paprika Recipe Manager 3 (3.4.5)
-409201541 Pages (10.1)
-1494948845 Paletter (3.1.0)
-410968114 PDFScanner (1.15.4)
-963504129 Pommie (2.9)
-1449412482 Reeder (4.2.5)
-1521432881 Session (1.4.5)
-933627574 Silicio (3.0.3)
-1384080005 Tweetbot (3.4.1)
-1495261277 UpHabit  (7.3.3)
-# add NV Ultra when reased on app store
+# mas signin mas@example.com
+
+mas "Amphetamine", id: 937984704
+mas "Chronicle Pro", id: 1280542517
+mas "ColorSnapper2", id: 969418666
+mas "Day One", id: 1055511498
+mas "Deliveries", id: 924726344
+mas "Drafts", id: 1435957248
+mas "EchoHam", id: 873302145
+mas "Exporter for Contacts", id: 402323447
+mas "Fantastical", id: 975937182
+mas "Harvest", id: 506189836
+mas "Keynote", id: 409183694
+mas "Numbers", id: 409203825
+mas "Pages", id: 409201541
+mas "Paletter", id: 1494948845
+mas "Paprika Recipe Manager 3", id: 1303222628
+mas "PDFScanner", id: 410968114
+mas "Pommie", id: 963504129
+mas "Reeder", id: 1449412482
+mas "Reeder", id: 1529448980
+mas "Session", id: 1521432881
+mas "Silicio", id: 933627574
+mas "SonicWall Mobile Connect", id: 822514576
+mas "Tweetbot", id: 1384080005
+mas "UpHabit ", id: 1495261277
