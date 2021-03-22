@@ -69,19 +69,130 @@ updated 2021-03-20
  - [qlImageSize](https://github.com/Nyx0uf/qlImageSize) - Display image size and resolution 
  - [QLMarkdown](https://github.com/toland/qlmarkdown) - Preview Markdown files
  - [QLStephen](https://github.com/whomwah/qlstephen) - Preview plain text files without or with unknown file extensions
- - [QucikLookJSON](http://www.sagtau.com/quicklookjson.html) - Preview JSON files
+ - [QuickLookJSON](http://www.sagtau.com/quicklookjson.html) - Preview JSON files
  - [Suspicious Package](https://www.mothersruin.com/software/SuspiciousPackage/) - Preview the contents of a standard Apple installer package
  - [QLVideo](https://github.com/Marginal/QLVideo) - Preview most types of video files, as well as their thumbnails, cover art and metadata
 
 
 ### [Homebrew](https://brew.sh/) cask installs 
 
-- [homebrew/cask-drivers](https://github.com/Homebrew/homebrew-cask-drivers)
 - [homebrew/cask-fonts](https://github.com/Homebrew/homebrew-cask-fonts)
-- [homebrew/cask-fonts](https://github.com/Homebrew/homebrew-cask-versions)
+- [homebrew/cask-versions](https://github.com/Homebrew/homebrew-cask-versions)
+- [1password](https://1password.com/) - password manager
+- [adobe-creative-cloud](https://www.adobe.com/creativecloud.html) - Adobe CC desktop app (installers for all apps)
+- [airfoil](https://rogueamoeba.com/airfoil/mac/) - Stream audio from mac to bluetooth and other wireless devices
+- [appzapper](https://www.appzapper.com/) - good little uninstaller that still gives good results from time to time.
+- [arq](https://www.arqbackup.com/) - Encrypted, versioned backup to all kinds of destinations (local and remote.) I'm mostly leaning on Backblaze right now, but beginning to fold Aqr back into my backup routine.
+- [audio-hijack](https://rogueamoeba.com/audiohijack/) - capture, record, adjust, re-route audio anywhere on the system.  As with all thigns form Rogue Amoeba, fantastic.
+- [backblaze](https://www.backblaze.com/) - Pretty affordable, encrypted, versioned cloud backup. 
+- [banktivity](https://www.banktivity.com/) - Better than Quicken, et al. I'd probably keep a Mac just for this app and platform. 
+- [bartender](https://www.macbartender.com/) - Scriptable menu bar organization and customization.
+- [betterzip](https://macitbetter.com/) - Broad support for lots of archive types. Also winmail.dat files. Can extract images and sound from PDF easily and simply. Good quicklook and CLI support.
+- [brave-browser](https://brave.com/) - Privacy and performance-focused browser. Built on Chromium. Outside of development, this is my Chromelike browser whenever Firefox doesn't do the trick.  
+- [chronosync](https://www.econtechnologies.com/chronosync/overview.html) - File synchronization, backups, bootable backups and cloud storage. I use this to sync various directories between machines (projects, development, etc.) I'll likely shift much of this stuff to a NAS-based workflow.
+- [clipy](https://clipy-app.com/) - Clipboard extension app for mac. Easily accessible clipboard history. 
+- [colloquy](https://colloquy.app/) - IRC client. (Currently has problems with the cask. Compiled manually for the time being.) may be swqitching to Textual
+- [dash](https://kapeli.com/dash) - offline documentation sets for 200+ APIs, cheatsheets, etc.
+- [default-folder-x](https://www.stclairsoft.com/DefaultFolderX/) - customize open and
+save dialogs, favorite folders, shortcuts, etc.
+- [deltawalker](https://www.deltawalker.com/) - diff and merge utility (great at folder/directory compare)
+- [docker](https://www.docker.com/) - Docker Desktop app. ("for the building and sharing of containerized applications and microservices")
+- [downie](https://software.charliemonroe.net/downie/) - app to simply campture and download video from the internet.
+- [dropbox](https://www.dropbox.com) - file sync utility
+- [evernote](https://evernote.com/) - note taking. Not heavily used recently. Still have some data that have not transitioned out.
+- [expandrive](https://www.expandrive.com) - Mounts cloud storage like Google Drive, Dropbox, Amazon S3, etc. to finder. (Switching to Strongsync on Big Sur/M1)
+- [farrago](https://rogueamoeba.com/farrago/) - Soundboard app from Rogue Amoeba
+- [firefox](https://www.mozilla.org/en-US/firefox/) - web browser 
+- [firefox-developer-edition](https://www.mozilla.org/en-US/firefox/developer/) - web browser, developer build
+- [firefox-nightly](https://www.mozilla.org/en-US/firefox/channel/desktop/) - web browser, nightly dev build
+- [garagebuy](https://www.iwascoding.com/GarageBuy/index.html) - search, track, and bid on eBay auctions. 
+- [garagesale]() - eBay pwoer seller tool. Create, launch and track your listings. Manage sales and inventory.
+- [google-backup-and-sync](https://www.google.com/drive/download/) - Google drive utility
+- [google-chrome](https://www.google.com/chrome/index.html) - web browser
+- [google-chrome-canary](https://www.google.com/chrome/canary/) - web browser, nightly dev build
+- [google-chrome-dev](https://www.google.com/chrome/dev/) - web browser, developer build
+- [gpg-suite](https://gpgtools.org/) - encrypt, decrypt, sign and verify files or messages. 
+- [hammerspoon](https://www.hammerspoon.org/) - desktop automation tool for macOS. Bridges various system level APIs into a Lua scripting engine.
+- [hand-mirror](https://handmirror.app/) - one-click camera check from the menu bar
+- [harvest](https://www.getharvest.com/) - time tracking utility
+- [hazel](https://www.noodlesoft.com/) - automated organization for Mac.
+- [imagealpha](https://pngmini.com/) -  reduces file sizes of 24-bit PNG files (including alpha transparency) 
+- [imageoptim](https://imageoptim.com/mac) - image optimization and compression utility. 
+- [imazing](https://imazing.com/) - iOS device backup and management utility.
+- [inboard](https://www.inboardapp.com/) - visual inspiration organization with Dribbble support.
+- [inssider](https://www.metageek.com/products/inssider/) - WiFi environment analysis.
+- [integrity](https://peacockmedia.software/mac/integrity/free.html) - website link checker for Mac
+- [istat-menus](https://bjango.com/mac/istatmenus/) - advanced system monitor for menubar
+- [iterm2](https://iterm2.com/) - replacement for Terminal and the successor to iTerm
+- [kaleidoscope](https://kaleidoscope.app/) - diff and merge utility (great image diffing)
+- [keybase](https://keybase.io/) - secure messaging and file sharing
+- [kindle](https://www.amazon.com/Amazon-Digital-Services-LLC-Download/dp/B00UB769KC) - Kindle for Mac
+- [knox](https://knox.en.uptodown.com/mac) - menubar app to manage vaults (passworded DMG or similar)
+- [launchbar](https://obdev.at/products/launchbar/index.html) -   adaptive app launcher, document browser, and more.
+- [loopback](https://rogueamoeba.com/loopback/) - cable-free audio routing for Mac
+- [macdown](https://macdown.uranusjr.com/) - open source Markdown editor for macOS
+- [mailmate](https://freron.com/) - IMAP email client for macOS. Markdown integrated email composition, advanced search, smart mailboxes.
+- [marked](https://marked2app.com/) - previewer for Markdown and other plain text markups
+- [mdimagesizemdimporter](https://github.com/Nyx0uf/qlImageSize) - Spotlight plugin complement to alImageSize
+- [netspot](https://www.netspotapp.com/) - Wifi site survey, analysis, and troubleshooting utility
+- [nextcloud](https://nextcloud.com/) - self-hosted cloud sync and sharing
+- [nvalt](https://brettterpstra.com/projects/nvalt/) - nvALT 2 is a fork of Notational Velocity with additional features and interface mods (currently beta testing NVUltra)
+- [obsidian](https://obsidian.md/) - knowledge base that works on top of a local folder of Markdown files
+- [omnifocus](https://www.omnigroup.com/omnifocus) - task management app
+- [omnioutliner](https://www.omnigroup.com/omnioutliner) - tool for organizing (and reorganizing) information
+- [omniplan](https://www.omnigroup.com/omniplan) - project management app
+- [opera](https://www.opera.com/) - web browser
+- [opera-developer](https://www.opera.com/computer/beta) - web browser, developer verison
+- [permute](https://software.charliemonroe.net/permute/) - media converter 
+- [popclip]() - 
+- [postman]() - 
+- [printopia]() - 
+- [qlcolorcode]() - 
+- [qlimagesize]() - 
+- [qlmarkdown]() - 
+- [qlstephen]() - 
+- [qlvideo]() - 
+- [quicklook-json]() - 
+- [renamer]() - 
+- [resilio-sync]() - 
+- [rubitrack-pro]() - 
+- [safari-technology-preview]() - 
+- [satellite-eyes]() - 
+- [scrivener]() - 
+- [sequel-pro]() - 
+- [signal]() - 
+- [sketch]() - 
+- [sketchup]() - 
+- [skype]() - 
+- [slack]() - 
+- [soundsource](https://rogueamoeba.com/soundsource/) - improved sound control for mac (per app settings, input/outputs, etc.)
+- [sourcetree]() - 
+- [strongsync]() - 
+- [sublime-text]() - 
+- [superduper]() - 
+- [suspicious-package]() - 
+- [taskpaper]() - 
+- [textexpander]() - 
+- [textual](https://www.codeux.com/textual/) - IRC client for macOS.
+- [tor-browser]() - 
+- [tower]() - 
+- [transmission]() - 
+- [transmit]() - 
+- [visual-studio-code]() - 
+- [vlc]() - 
+- [webstorm]() - 
+- [whatsize]() - 
+- [xquartz]() - 
+- [zoomus]() - 
+
 
 #### Fonts from cask-fonts
-- Inconsolata
+- [Chunk]() - ultra-bold slab serif. Reminiscent of woodcuts, broadsides, and headlines.
+- [Fira Code](https://github.com/tonsky/FiraCode) - monospaced font with programming ligatures
+- [Hack](https://source-foundry.github.io/Hack/font-specimen.html) - a workhorse typeface for source code.
+- [Inconsolata](https://fonts.google.com/specimen/Inconsolata?preview.text_type=custom) -  Monospace font with added ligatures
+- [National Park](https://nationalparktypeface.com/) - mimics national park service signs that are carved with a router bit
+- [Raleway](https://www.theleagueofmoveabletype.com/raleway) - sans-serif font family with 9 weights and itals"
 
 
 
